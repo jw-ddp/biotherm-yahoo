@@ -1,64 +1,19 @@
-<table width="1140" cellpadding="0" cellspacing="0" border="0" align="center">
-        <tr>
-            <td height="600" valign="bottom">
-                <a href="https://reurl.cc/y9zbE" target="_brank"><img src="https://jw-ddp.github.io/biotherm-yahoo/190705/05-tv.jpg" width="1140" height="570"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://reurl.cc/0q1qK" target="_brank"><img src="https://jw-ddp.github.io/biotherm-yahoo/190705/05-01.jpg" ></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <table width="100%" cellpadding="0" cellspacing="0" border="0">
-                    <tr>
-                        <td><a href="https://reurl.cc/785kl" target="_brank"><img src="https://jw-ddp.github.io/biotherm-yahoo/190705/05-2.jpg"></a></td>
-                    </tr>
-                    <tr>
-
-                        
-                        <td height="150" align="left" valign="top"style="background-image: url(https://jw-ddp.github.io/biotherm-yahoo/190705/05-1.jpg);"><span style="display:block;font-size:30px; font-weight:bold; padding-left:460px;padding-top:43px;">2W250</span></td>
-                  </tr>
-
-                       
-
-                </table>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <table cellpadding="0" cellspacing="0" border="0">
-                    <tr>
-                        <td><a href="https://reurl.cc/0q1Mb" target="_brank"><img src="https://jw-ddp.github.io/biotherm-yahoo/190705/05-03.jpg"></a></td>
-                        <td><a href="https://reurl.cc/E0odK" target="_brank"><img src="https://jw-ddp.github.io/biotherm-yahoo/190705/05-04.jpg"></a></td>
-                    </tr>
-                </table>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://reurl.cc/1V1NV" target="_brank"><img src="https://jw-ddp.github.io/biotherm-yahoo/190705/05-05.jpg"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://reurl.cc/78kxb" target="_brank"><img src="https://jw-ddp.github.io/biotherm-yahoo/190705/05-06.jpg"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://reurl.cc/5x1nz" target="_brank"><img src="https://jw-ddp.github.io/biotherm-yahoo/190705/05-07.jpg"></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="https://jw-ddp.github.io/biotherm-yahoo/190705/05-08.jpg">
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href="https://reurl.cc/5x1A6" target="_brank"><img src="https://jw-ddp.github.io/biotherm-yahoo/190705/05-09.jpg"></a>
-            </td>
-        </tr>
-    </table>
+    <div style="width: 1140px; margin: 0 auto">
+        <div style="width: 100%; height: 30px;"></div>
+        <div>
+            <a href="https://reurl.cc/NWExp" target="brank">
+            <img src="https://jw-ddp.github.io/biotherm-yahoo/190722/22-tv.jpg">
+            <img src="https://jw-ddp.github.io/biotherm-yahoo/190722/22-01.jpg">
+            <img src="https://jw-ddp.github.io/biotherm-yahoo/190722/22-02.jpg">
+            <img src="https://jw-ddp.github.io/biotherm-yahoo/190722/22-03.jpg">
+            <img style="float: left;" src="https://jw-ddp.github.io/biotherm-yahoo/190722/22-04.jpg">
+            <img style="float: left;" src="https://jw-ddp.github.io/biotherm-yahoo/190722/22-05.jpg">
+            <img src="https://jw-ddp.github.io/biotherm-yahoo/190722/22-06.jpg">
+            <img src="https://jw-ddp.github.io/biotherm-yahoo/190722/22-07.jpg">
+            <img src="https://jw-ddp.github.io/biotherm-yahoo/190722/22-08.jpg">
+            <img src="https://jw-ddp.github.io/biotherm-yahoo/190722/22-09.jpg">
+            <img src="https://jw-ddp.github.io/biotherm-yahoo/190722/22-10.jpg">
+            </a>
+        </div>
+        <div style="width: 100%; height: 30px;"></div>
+    </div>
